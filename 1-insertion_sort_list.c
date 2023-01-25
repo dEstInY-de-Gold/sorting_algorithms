@@ -3,7 +3,7 @@
 /**
  * insertion_sort_list - insertion sort algorithm
  * @list: pointer to head of list
- * */
+ */
 
 void insertion_sort_list(listint_t **list)
 {
